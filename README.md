@@ -57,6 +57,9 @@ So that I can keep a list of books to purchase.
 
 ## Mock-Up
 
+***Include screenshot or photo HERE***
+
+![Alt Text](URL or Path to Image)
 
 ## Links 
 
